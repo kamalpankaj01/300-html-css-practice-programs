@@ -199,4 +199,4 @@ If you find this repository helpful:
 
 **Happy Coding! Keep Learning, Keep Building! 🚀**
 
-*Learn Coding, Excel, Tally, AI & Technology in Simple English.*
+*Learn Coding, Excel, Tally, AI & Technology*

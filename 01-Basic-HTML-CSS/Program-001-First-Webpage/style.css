@@ -1,0 +1,64 @@
+/* This styles the complete webpage */
+
+body {
+  font-family: Arial, sans-serif; /* Sets the text font */
+  background-color: #f4f4f4; /* Sets the page background colour */
+  margin: 0; /* Removes default outside spacing */
+  padding: 0; /* Removes default inside spacing */
+}
+
+/* This styles the main content container */
+
+.container {
+  width: 80%; /* Sets the container width */
+  max-width: 700px; /* Sets the maximum container width */
+  margin: 50px auto; /* Centres the container */
+  padding: 30px; /* Adds space inside the container */
+  background-color: white; /* Sets a white background */
+  border-radius: 10px; /* Makes the corners rounded */
+  text-align: center; /* Centres the text */
+}
+
+/* This changes the main heading colour */
+
+h1 {
+  color: #007bff; /* Sets the heading colour to blue */
+}
+
+/* This changes the second-level heading colour */
+
+h2 {
+  color: #333333; /* Sets the heading colour to dark grey */
+}
+
+/* This styles all paragraphs */
+
+p {
+  color: #555555; /* Sets the paragraph text colour */
+  font-size: 16px; /* Sets the paragraph text size */
+}
+
+/* This styles the skills list */
+
+ul {
+  display: inline-block; /* Centres the list block */
+  text-align: left; /* Aligns list text to the left */
+}
+
+/* This styles the Google link like a button */
+
+.btn {
+  display: inline-block; /* Allows padding and dimensions */
+  background-color: #007bff; /* Sets the button background */
+  color: white; /* Sets the button text colour */
+  padding: 12px 25px; /* Adds space inside the button */
+  text-decoration: none; /* Removes the underline */
+  border-radius: 5px; /* Makes button corners rounded */
+  margin-top: 15px; /* Adds space above the button */
+}
+
+/* This changes the button colour when the mouse moves over it */
+
+.btn:hover {
+  background-color: #0056b3; /* Sets a darker blue on hover */
+}

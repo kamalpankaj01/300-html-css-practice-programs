@@ -233,6 +233,8 @@ After completing this section, continue to:
 
 🌐 Website: https://codewithpankaj.net
 
+🌐 Website: https://kamalpankaj.in
+
 💻 GitHub: https://github.com/kamalpankaj01
 
 📸 Instagram: https://www.instagram.com/code.withpankaj/

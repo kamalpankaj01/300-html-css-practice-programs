@@ -147,4 +147,4 @@ If you find this project helpful, please give this repository a ⭐ star.
 
 **Happy Coding! 🚀**
 
-_Learn Coding, Excel, Tally, AI & Technology in Simple English._
+_Learn Coding, Excel, Tally, AI & Technology._

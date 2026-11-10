@@ -245,4 +245,4 @@ If you find this learning resource useful, please give the main repository a ⭐
 
 **Happy Coding! 🚀**
 
-*Learn Coding, Excel, Tally, AI & Technology in Simple English.*
+*Learn Coding, Excel, Tally, AI & Technology*
